@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="features" />
         <module name="rest-interface-api" />
         <module name="rest-interface-impl" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="features" target="1.5" />
       <module name="rest-interface-api" target="1.5" />
       <module name="rest-interface-impl" target="1.5" />
       <module name="sharetravel-rest-interface" target="1.5" />

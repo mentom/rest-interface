@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features name="sharetravel-rest-interface-1.0.0-SNAPSHOT" version="1.0.0-SNAPSHOT">
+    <!--
+    features:addurl mvn:it.sharetravel/sharetravel-rest-interface/1.0.0-SNAPSHOT/xml/features
+
+    -->
+    <feature name="sharetravel-rest-interface" version="1.0.0-SNAPSHOT">
+        <bundle>mvn:it.sharetravel/rest-interface-api/1.0.0-SNAPSHOT</bundle>
+        <bundle>mvn:it.sharetravel/rest-interface-impl/1.0.0-SNAPSHOT</bundle>
+    </feature>
+        <!--<feature version="1.0.0-SNAPSHOT">rest-interface-api</feature>
+        <feature version="1.0.0-SNAPSHOT">rest-interface-impl</feature>-->
+</features>

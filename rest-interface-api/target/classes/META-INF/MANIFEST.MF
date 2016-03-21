@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1458592532984
+Bnd-LastModified: 1458600144397
 Build-Jdk: 1.7.0_79
 Built-By: mentom
 Bundle-ManifestVersion: 2
@@ -7,4 +7,5 @@ Bundle-Name: rest-interface-api
 Bundle-SymbolicName: it.sharetravel.rest-interface-api
 Bundle-Version: 1.0.0.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.5))"
 Tool: Bnd-3.0.0.201509101326

@@ -5,14 +5,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>it.sharetravel</groupId>
-    <artifactId>sharetravel</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>sharetravel-rest-interface</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
 
     <packaging>pom</packaging>
     <modules>
         <module>rest-interface-api</module>
         <module>rest-interface-impl</module>
-
+        <module>features</module>
     </modules>
     <build>
     <plugins>

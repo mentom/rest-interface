@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/rest-interface-api/pom.xml" />
         <option value="$PROJECT_DIR$/rest-interface-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/features/pom.xml" />
       </list>
     </option>
   </component>
