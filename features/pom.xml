@@ -13,7 +13,7 @@
     <artifactId>sharetravel-rest-interface-features</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <name>Feature Repository</name>
-
+    <!--/home/mentom/DEVELOPMENT/Mentom/sharetravel/sharetravel-rest-interface-->
     <build>
         <!-- enable filtering of the features file -->
         <resources>
